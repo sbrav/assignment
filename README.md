@@ -3,6 +3,7 @@ Read Me
 **Walmart Assignment:**
 
 Scenario to automate:
+
 1. Perform a search on home page from a pool of key words given below
 
 2. Identify an item from the result set that you can add to cart
@@ -20,7 +21,7 @@ Scenario to automate:
 8. Sign out from your account
 
 **Tools Used:**
-- Selenium Webdriver 4.27
+- Selenium Webdriver 2.47.1
 - Junit 4.1
 - Eclipse IDE 4.4
 - ChromeBrowser 33
